@@ -1,0 +1,1 @@
+# Konversi-dari-Input-Sensor-Menjadi-Besaran-Suhu-dalam-Celcius.
